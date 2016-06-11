@@ -11,7 +11,7 @@ Firefox Health Report {ok}
 
 
 ;Get insights and performance information about your version of Firefox.
-Firefoxच्या आपल्या आवृत्तीविषयी सूक्ष्मदृष्टी व कागमिरि माहिती प्राप्त करा.
+Firefoxच्या आपल्या आवृत्तीविषयी सूक्ष्मदृष्टी व कामगिरीची माहिती प्राप्त करा.
 
 
 ;Learn more...
@@ -51,11 +51,11 @@ Mozillaच्या सर्व्हरपासून तुमच्या �
 
 
 ;update channel
-update channel
+channel सुधारणा
 
 
 ;updates
-updates
+सुधारणा 
 
 
 # Possible value for "updates"
@@ -85,11 +85,11 @@ prompt
 
 
 ;total sessions
-total sessions
+एकूण सत्र 
 
 
 ;Active Add-ons
-Active Add-ons
+कार्यान्वित असलेले Add-ons
 
 
 ;Extensions
@@ -97,7 +97,7 @@ Extensions
 
 
 ;Plugins (Click-to-Activate)
-Plugins (Click-to-Activate)
+Plugins (कार्यान्वित करण्यासाठी क्लिक करा )
 
 
 ;crashes
